@@ -1,0 +1,78 @@
+
+{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+color: black;
+font-family: 'Roboto', sans-serif;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvQpqQ3hgRjAF6eqcR6U4NhbKkrL7FIwBc2A&usqp=CAU);
+  background-attachment: fixed;
+  background-size: auto;
+  margin-left: 10px;
+}
+header{
+  }
+  header h1
+  {
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+  font-size: 2.8vw;
+  }
+  section
+  {
+
+  }
+ p{
+margin-left: 20px;
+font-size: 1.44vw;
+  }
+  .privacy{
+    margin-left: 10px;
+  }
+
+h2
+{
+font-size: 1.86vw;
+}
+h3{
+  margin-top: 20px;
+  font-size: 0.93vw;
+}
+
+
+
+ul{
+background-color: #3d3d3d;
+overflow: hidden;
+text-align: center;
+}
+#ll{
+display: inline-block;
+float: left;
+background-color: #3d3d3d;
+}
+a
+{
+  text-decoration: none;
+  display: block;
+  padding: 8px;
+  color: white;
+}
+#ll:hover{
+  background-color: black;
+
+}
+#ll a.active{
+  background-color: white;
+  color: black;
+}
+#linkpr {
+  color: blue;
+}
+#partok{
+  float: right;
+}
+#ll
+{font-size: 1.5vw;}
