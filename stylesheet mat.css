@@ -18,7 +18,7 @@ header{
 padding-top: 10px;
 padding-bottom: 10px;
 text-align: center;
-  font-size: 2.8vw;
+width:100%;
   }
   section
   {
@@ -26,20 +26,27 @@ text-align: center;
   }
  p{
 margin-left: 20px;
-font-size: 1.44vw;
+width:80%;
   }
-  .privacy{
+  #privacy{
     margin-left: 10px;
   }
 
 h2
 {
-font-size: 1.86vw;
+width:40%;
 }
 h3{
   margin-top: 20px;
-  font-size: 0.93vw;
+width:100%;
 }
+@media only screen and (min-width: 360px) {
+  #jave{
+display: inline;
+  }
+}
+
+
 
 
 
@@ -78,4 +85,8 @@ background-color: #3d3d3d;
   color: black;
 }
 #ll
-{font-size: 1.5vw;}
+{width:15%;
+font-size: 20px;}
+#lijstinlijst{
+padding-left: 2px;
+}
