@@ -43,7 +43,7 @@ h3{
 
 
 
-ul{
+#l2{
 background-color: #3d3d3d;
 overflow: hidden;
 text-align: center;
@@ -53,7 +53,7 @@ display: inline-block;
 float: left;
 background-color: #3d3d3d;
 }
-a
+#hahoa
 {
   text-decoration: none;
   display: block;
@@ -73,6 +73,9 @@ a
 }
 #partok{
   float: right;
+}
+#ditwaswit{
+  color: black;
 }
 #ll
 {font-size: 1.5vw;}
